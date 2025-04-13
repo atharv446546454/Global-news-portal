@@ -35,7 +35,7 @@ This platform delivers **real-time news updates** across a range of categories, 
 
 - **Frontend:** HTML, CSS, JavaScript  
 - **Backend :** PHP
-- **Database:**MySQL
+- **Database:** MySQL 
 ---
 
 ## 📁 How to Run the Project
